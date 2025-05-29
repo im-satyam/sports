@@ -36,7 +36,7 @@ cd sports
 
 cd backend
 npm install
-npm run dev
+nodemon index.js
 
 cd frontend
 npm install
